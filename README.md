@@ -27,7 +27,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" >
     <img src="https://skillicons.dev/icons?i=github,html,css,figma,js" />
   </a>
 </p>
